@@ -11,7 +11,8 @@
 </div>
 
 <br>
-Motivated and innovative AI Developer with a passion for building efficient and scalable applications. Skilled in Solana blockchain development and full-stack programming with a focus on delivering impactful solutions using cutting-edge technologies.
+Motivated and innovative AI Developer with a passion for building efficient and scalable applications. Skilled in Solana blockchain development and full-stack programming with a focus on delivering impactful solutions using cutting-edge technologies. <br>
+
 
 <br>
 
